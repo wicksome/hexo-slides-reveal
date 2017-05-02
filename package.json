@@ -1,8 +1,10 @@
 {
   "name": "hexo-slides-reveal",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "index",
   "dependencies": {
+    "hexo-fs": "^0.1.6",
+    "hexo-pagination": "^0.1.0",
     "hexo-util": "^0.6.0"
   }
 }

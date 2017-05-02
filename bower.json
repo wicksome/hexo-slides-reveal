@@ -1,0 +1,20 @@
+{
+  "name": "hexo-slides-reveal",
+  "description": "",
+  "main": "index",
+  "authors": [
+    "Yeongjun.Kim <opid911@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/wicksome/hexo-slides-reveal",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "reveal.js": "^3.4.1"
+  }
+}
