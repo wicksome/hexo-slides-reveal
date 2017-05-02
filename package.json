@@ -1,0 +1,8 @@
+{
+  "name": "hexo-slides-reveal",
+  "version": "0.0.1",
+  "main": "index",
+  "dependencies": {
+    "hexo-util": "^0.6.0"
+  }
+}
