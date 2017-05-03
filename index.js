@@ -57,7 +57,7 @@ function createSlideDir() {
 hexo.on('generateBefore', function() {
     // copy lib
     copyRevealLib()
-        .then(createSlideDir)
+        // .then(createSlideDir)
         .then(function() {
         })
 });
